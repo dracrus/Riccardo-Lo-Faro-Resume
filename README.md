@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/dracrus/"><img src="https://img.shields.io/github/followers/dracrus?style=social" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Milan-00FFB4.svg" alt="Milan"></a>
+  <a href="https://goo.gl/maps/jbUkaQbpn85E3YLh6"><img src="https://img.shields.io/badge/Location-Milan-00FFB4.svg" alt="Milan"></a>
 </p>
 
 ---
